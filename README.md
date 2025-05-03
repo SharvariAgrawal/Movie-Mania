@@ -21,12 +21,3 @@
 - JavaScript
 - Axios / Fetch API
 
----
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-
-
-
